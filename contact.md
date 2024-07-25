@@ -4,13 +4,8 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Why Choose Us?
+- **Expertise**: Our team consists of seasoned AI specialists with extensive experience in developing and deploying LLM applications.
+- **Customization**: We tailor our solutions to meet your specific requirements, ensuring maximum impact and efficiency.
+- **Innovation**: We stay at the forefront of AI advancements, incorporating the latest technologies into our consulting practices.
+- **End-to-End Support**: From strategy to execution, we provide comprehensive support throughout your AI journey.
