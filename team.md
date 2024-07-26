@@ -8,3 +8,5 @@ intro_image_hide_on_mobile: false
 ---
 
 # Meet The Team
+
+Our team of LLM and AI consultants can support your business at any stage of its growth.
