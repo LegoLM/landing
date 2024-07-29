@@ -1,12 +1,11 @@
 ---
 layout: home
-description: AI & LLM consultation
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
+show_all_btn: false
+truncate: false
+intro_image: false
 ---
 
-# AI & LLM consultation
+# Large Language Models for Your Business
 
-Whether you're looking to innovate your product offerings, improve operational efficiencies, or gain competitive insights, our consultation services are designed to guide you every step of the way. Let's work together to unlock the full potential of AI for your business.
+Delivering robust LLMs tailored for chatbots, question-answering systems, and various other applications.

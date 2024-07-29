@@ -1,6 +1,6 @@
 [
   {
-    "title": "Real-World Solutions",
+    "title": "Real-World LLM Solutions",
     "description": "We create LLM applications tailored to real-world use cases.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
@@ -9,10 +9,19 @@
     }
   },
   {
-    "title": "Staying Ahead",
-    "description": "We stay up to date on the latest LLM and AI advancements.",
+    "title": "LLM Consulting",
+    "description": "We analyze your business needs, advice on architectural decisions and inform your LLM strategy.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Staying Ahead",
+    "description": "We stay up to date on the latest LLM and GenAI advancements.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }
