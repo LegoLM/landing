@@ -1,7 +1,7 @@
 ---
 layout: home
 show_call_box: false
-show_all_btn: false
+show_contact_btn: true
 truncate: false
 intro_image: false
 ---
