@@ -1,7 +1,7 @@
 [
   {
-    "title": "Real-World LLM Solutions",
-    "description": "We create LLM applications tailored to real-world use cases.",
+    "title": "Expertise",
+    "description": "Our team consists of seasoned AI specialists with extensive experience in developing and deploying LLM applications.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "LLM Consulting",
-    "description": "We analyze your business needs, advice on architectural decisions and inform your LLM strategy.",
+    "title": "Innovation",
+    "description": "We stay at the forefront of AI advancements, incorporating the latest technologies into our consulting practices.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Staying Ahead",
-    "description": "We stay up to date on the latest LLM and GenAI advancements.",
+    "title": "End-to-End Support",
+    "description": "From strategy to execution, we provide comprehensive support throughout your AI journey.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
